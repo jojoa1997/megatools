@@ -71,7 +71,16 @@ minetest.register_craft({
 	},
 })
 
---Ultamite tool
+minetest.register_craft({
+	output = 'megatools:ring_steel',
+	recipe = {
+		{'default:steel_ingot', 'default:mese', 'default:steel_ingot'},
+		{'default:mese', '', 'default:mese'},
+		{'default:steel_ingot', 'default:mese', 'default:steel_ingot'}
+	},
+})
+
+--Nature Stuff
 minetest.register_craft({
 	type = 'shapeless',
 	output = 'megatools:ring_nature',

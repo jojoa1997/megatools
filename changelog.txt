@@ -1,1 +1,2 @@
 3/2/13-Initial Release-basic tools, rings, and nature staff were added
+3/3/13-1.1-Changed a texture and made compatable with 0.4.4-stable

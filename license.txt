@@ -1,2 +1,2 @@
-Code:GPL
+Code:WTFPL
 Texture: WTFPL

@@ -1,2 +1,3 @@
 -add a paxel for each type of material
 -add sword tools
+-make rings have special properties
